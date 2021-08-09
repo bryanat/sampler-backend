@@ -7,7 +7,7 @@ What is used in this repo is Node, Redis, express, ws, but I know more which is 
 These are the primary technologies I personally use dominantly and claim to know well.
 
 #### backend tech tools :
-* node/javascipt (express), 
+* node/javascript (express), 
 * **Redis** (**<3**),
 * other nosql databases (mongo, neo4j)
 * sql databases (mysql), 
