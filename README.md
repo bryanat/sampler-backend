@@ -34,11 +34,6 @@ fun fact, editor of choice is *VSCode not just for the intellisense but also bec
 Javascript (*ES6 ( *promises (async/await), *modules (import/export), *block scoped variables (let/const), *arrow functions, ) *control loops (if/else, for, while, ect…), *primitive objects / data types (strings, arrays, ect…, but not symbol (who even uses that?)), standard objects (*date, *json, *regexp, *math, number, ), *network (*fetch, ws), **boolean operators (==><||&&:), error handling (try/catch), )
 
 *Node ( *NPM :), many npm packages such as (*uuid, *ws, *cors, d3, … ), core Node.js API (*json, events, buffers, streams, file system, path, url, http) *Express, *json,)
-
-
-*React (*functional components, *hooks (state, effect, context, ref),
-**React Native (*most every native component, starting to explore and learn third party components like maps, video, react navigation) 
-*HTML/*CSS (duh)
 <br/>
 **Redis (beautiful)
 
